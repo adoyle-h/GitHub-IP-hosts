@@ -118,4 +118,7 @@ GITHUB_URLS: list[str] = [
     "vscode.dev",
     # "vscode-webview.net",
     "vstoken.actions.githubusercontent.com",
+    "proxy.golang.org",
+    "google.golang.org",
+    "golang.org",
 ]
